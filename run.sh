@@ -1,0 +1,1 @@
+docker run -it manz/debian:95 /bin/bash
